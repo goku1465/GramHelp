@@ -1,0 +1,27 @@
+*{
+    font-family: arial;
+}
+
+.nav-ber{
+    height: 100px;
+    width: 2000px;
+    color: white;
+    background-color: black;
+    padding-top: 4px;
+    text-align: center
+}
+
+.button1{
+    margin-top: 20px;
+    padding: 16px;
+}
+
+.button2{
+    margin-top: 20px;
+    padding: 16px;
+}
+
+.button3{
+    margin-top: 20px;
+    padding: 16px;
+}
